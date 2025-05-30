@@ -108,3 +108,10 @@ Still, it taught me more than any tutorial ever could — and let me create some
 
 [@buildwithparia](https://github.com/buildwithparia)  
 Coded with Python, playlists, late-night snacks, and a little sparkle ✨
+
+---
+
+## 🪄 License
+
+This project is released under the [MIT License](./LICENSE) — feel free to remix, reuse, and sparkle responsibly ✨
+
